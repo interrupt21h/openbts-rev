@@ -1,0 +1,6 @@
+libGSMShare_la-GSM503Tables.lo: GSM503Tables.cpp \
+ /usr/include/stdc-predef.h GSM503Tables.h
+
+/usr/include/stdc-predef.h:
+
+GSM503Tables.h:
